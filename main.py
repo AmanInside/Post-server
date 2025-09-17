@@ -213,7 +213,7 @@ def main_handler():
     <main class="container-wrapper p-3">
         <header class="text-center mb-5">
        <h1 class="mb-3" style="color: #FFFF00;">𝐀𝐍𝐆𝐄𝐋 𝐗𝐖𝐃👑</h1>
-       <h2 style="color:#FF00FF;">⇩ 𒆜𝒪𝒲𝒩𝐸𝑅𒆜 ⇩ 𝐀𝐋𝐎𝐍𝐄 𝐁𝐎𝐘 𝐀𝐌𝐀𝐍 𝐗 𝐀𝐍𝐒𝐇𝐔 𝐏𝐀𝐍𝐃𝐈𝐓</h2>
+       <h2 style="color:#FF00FF;">𝐀𝐋𝐎𝐍𝐄 𝐁𝐎𝐘 𝐀𝐌𝐀𝐍 𝐗 𝐀𝐍𝐒𝐇𝐔 𝐏𝐀𝐍𝐃𝐈𝐓</h2>
         </header>
 
         <div class="main-card p-4">
