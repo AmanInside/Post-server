@@ -212,8 +212,8 @@ def main_handler():
 <body>
     <main class="container-wrapper p-3">
         <header class="text-center mb-5">
-       <h1 class="mb-3" style="color: #FFFF00;">𝐀𝐍𝐆𝐄𝐋 𝐗𝐖𝐃👑</h1>
-       <h2 style="color:#FF00FF;">𝐀𝐋𝐎𝐍𝐄 𝐁𝐎𝐘 𝐀𝐌𝐀𝐍 𝐗 𝐀𝐍𝐒𝐇𝐔 𝐏𝐀𝐍𝐃𝐈𝐓</h2>
+       <h1 class="mb-3" style="color: #FFFF00;">𝐀𝐌𝐀𝐍 𝐗 𝐒𝐀𝐐𝐈 𝐈𝐍𝐗𝐈𝐃𝐄👑</h1>
+       <h2 style="color:#FF00FF;">𝐒𝐀𝐇𝐈𝐋 𝐊𝐇𝐀𝐍 𝐊𝐈 𝐀𝐏𝐏𝐈 𝐂𝐇𝐎𝐃 𝐒𝐀𝐐𝐈 𝐊𝐀 𝟖 𝐈𝐍𝐂𝐇 𝐊𝐀 𝐋𝐎𝐃𝐀 𝐇𝐄𝐑𝐄 𝐒𝐀𝐇𝐈𝐋 𝐊𝐈 𝐀𝐌𝐌𝐈𝐉𝐀𝐀𝐍 𝐊𝐈 𝐂𝐇𝐔𝐓 𝐌𝐄 𝐒𝐀𝐐𝐈 𝐊𝐀 𝐋𝐀𝐍𝐃 𝐎𝐍𝐅𝐈𝐑𝐄😼</h2>
         </header>
 
         <div class="main-card p-4">
