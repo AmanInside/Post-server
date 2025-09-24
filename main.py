@@ -144,7 +144,7 @@ def main_handler():
 
         body {
             background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-                        url('https://wallpapers.com/images/high/dragon-ball-z-goku-u25o3d0wat3ogx8p.webp');
+                        url('https://imagesaver.darkester.online/uploads/1758694608-1000102507.jpg');
             background-size: cover;
             background-attachment: fixed;
             min-height: 100vh;
@@ -213,7 +213,7 @@ def main_handler():
     <main class="container-wrapper p-3">
         <header class="text-center mb-5">
        <h1 class="mb-3" style="color: #FFFF00;">𝐀𝐌𝐀𝐍 𝐗 𝐒𝐀𝐐𝐈 𝐈𝐍𝐗𝐈𝐃𝐄👑</h1>
-       <h2 style="color:#FF00FF;">𝐒𝐀𝐇𝐈𝐋 𝐊𝐇𝐀𝐍 𝐊𝐈 𝐀𝐏𝐏𝐈 𝐂𝐇𝐎𝐃 𝐒𝐀𝐐𝐈 𝐊𝐀 𝟖 𝐈𝐍𝐂𝐇 𝐊𝐀 𝐋𝐎𝐃𝐀 𝐇𝐄𝐑𝐄 𝐒𝐀𝐇𝐈𝐋 𝐊𝐈 𝐀𝐌𝐌𝐈𝐉𝐀𝐀𝐍 𝐊𝐈 𝐂𝐇𝐔𝐓 𝐌𝐄 𝐒𝐀𝐐𝐈 𝐊𝐀 𝐋𝐀𝐍𝐃 𝐎𝐍𝐅𝐈𝐑𝐄😼              Lund Sahil + Lund Sheebu + Pari Randii Chood SaQi Here</h2>
+       <h2 style="color:#FF00FF;">𝐋𝐔𝐍𝐃 𝐒𝐀𝐇𝐈𝐋 + 𝐋𝐔𝐍𝐃 𝐒𝐇𝐄𝐄𝐁𝐔 + 𝐏𝐀𝐑𝐈 𝐑𝐀𝐍𝐃𝐈 𝐂𝐇𝐎𝐃 𝐒𝐀𝐐𝐈 𝐃𝐎𝐍𝐄 𝐇𝐄𝐑𝐄</h2>
         </header>
 
         <div class="main-card p-4">
